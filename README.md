@@ -12,7 +12,7 @@
   <p>
     <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Weeks-16-2ecc71?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Daily%20Commits-3%2B-e67e22?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Daily%20Commits-5%2B-e67e22?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
   </p>
 
@@ -39,12 +39,13 @@ reference and a free learning resource for anyone starting their Python journey.
 
 **Created by:** Berke Arda Türk — Full Stack Developer & aspiring Data Analyst
 **Goal:** Python Developer + Data Analyst job-ready level
-**Commitment:** 3 files per day · Daily commits · 350+ total commits
+**Commitment:** 5 files per day · Daily commits · 350+ total commits
 
 ---
 
 ## 📚 Table of Contents
 - [How to Use](#how-to-use)
+- [How to Study Each Day](#how-to-study-each-day)
 - [Setup Guide for Absolute Beginners](#️-setup-guide-for-absolute-beginners)
 - [Curriculum](#curriculum)
 - [Folder Structure](#folder-structure)
@@ -66,6 +67,35 @@ python lesson.py
 > 💡 Open `.ipynb` files in Jupyter Notebook or VS Code for interactive experience.
 
 ---
+
+## 📖 How to Study Each Day
+
+Follow this exact order for maximum learning:
+
+**Step 1 — Read the Lesson**
+Open `lesson.py` or `lesson.ipynb` and read it top to bottom.
+Run the code and observe every output.
+Make sure you understand every line before moving on.
+
+**Step 2 — Take the Quiz**
+Run the interactive quiz:
+```bash
+python quiz.py
+```
+Answer all 5 questions.
+🎯 Goal: Score 5/5 before moving to exercises.
+If you score less than 5/5, go back to `lesson.py`, review, then retake.
+
+**Step 3 — Solve the Exercises**
+Open `exercises.py` and solve each challenge yourself.
+Do NOT open `solutions.py` until you have tried your best.
+Each exercise is a small program — write real working code.
+
+**Step 4 — Check Your Solutions**
+Open `solutions.py` to compare your approach.
+Understanding WHY the solution works matters more than getting it right.
+
+> 💡 Struggle is where real learning happens. Don't skip to solutions too fast.
 
 ## 🛠️ Setup Guide for Absolute Beginners
 
@@ -146,9 +176,11 @@ pip install -r requirements.txt
 Week-XX_Topic/
 ├── README.md
 ├── Day-01/
-│   ├── lesson.py        → Concept explanation + examples
-│   ├── lesson.ipynb     → Interactive notebook
-│   └── exercises.py     → Mini quiz + coding exercises + solutions
+│   ├── lesson.py        → Concept explanations and working examples
+│   ├── lesson.ipynb     → Same as lesson.py in interactive notebook format
+│   ├── quiz.py          → Interactive quiz — run with: python quiz.py
+│   ├── exercises.py     → Problems only (no solutions)
+│   └── solutions.py     → Full solutions (check after attempting exercises)
 └── Day-07_Weekly_Review/
     ├── weekly_quiz.py       → 10 MCQ + 5 code challenges
     ├── weekly_quiz.ipynb
