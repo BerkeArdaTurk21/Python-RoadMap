@@ -5,14 +5,14 @@
   <h1>Python RoadMap</h1>
 
   <p>
-    A complete Python → Data Analyst learning roadmap.<br/>
+    A complete Python → Data Science learning roadmap.<br/>
     Daily commits · Exercises · Quizzes · Projects · Notebooks
   </p>
 
   <p>
     <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Weeks-16-2ecc71?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Daily%20Commits-5%2B-e67e22?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Days%20Done-5%2F112-e67e22?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
   </p>
 
@@ -37,16 +37,30 @@ This repository is a structured, beginner-friendly Python and Data Science roadm
 built with daily commits over 16 weeks. It serves as both a personal revision
 reference and a free learning resource for anyone starting their Python journey.
 
-**Created by:** Berke Arda Türk — Full Stack Developer & aspiring Data Analyst
-**Goal:** Python Developer + Data Analyst job-ready level
-**Commitment:** 5 files per day · Daily commits · 350+ total commits
+**Created by:** Berke Arda Türk — CS Student | AI & Data Science @ Vizja University  
+**Goal:** Python Developer + Data Science job-ready level  
+**Commitment:** 5 files per day · Daily commits · 16 weeks
+
+---
+
+## 📊 Overall Progress
+
+```
+Week 01 — Python Basics      ████████░░  5/7 days  🔄 In Progress
+Week 02 — Control Flow       ░░░░░░░░░░  0/7 days  ⏳ Upcoming
+Week 03 — Functions          ░░░░░░░░░░  0/7 days  ⏳ Upcoming
+...
+```
+
+> Updated weekly as progress is made. ⭐ Star the repo to follow along!
 
 ---
 
 ## 📚 Table of Contents
+
 - [How to Use](#how-to-use)
 - [How to Study Each Day](#how-to-study-each-day)
-- [Setup Guide for Absolute Beginners](#️-setup-guide-for-absolute-beginners)
+- [Setup Guide](#️-setup-guide-for-absolute-beginners)
 - [Curriculum](#curriculum)
 - [Folder Structure](#folder-structure)
 - [Requirements](#requirements)
@@ -64,7 +78,7 @@ cd Week-01_Python_Basics/Day-01
 python lesson.py
 ```
 
-> 💡 Open `.ipynb` files in Jupyter Notebook or VS Code for interactive experience.
+> 💡 Open `.ipynb` files in Jupyter Notebook or VS Code for an interactive experience.
 
 ---
 
@@ -72,30 +86,31 @@ python lesson.py
 
 Follow this exact order for maximum learning:
 
-**Step 1 — Read the Lesson**
-Open `lesson.py` or `lesson.ipynb` and read it top to bottom.
-Run the code and observe every output.
+**Step 1 — Read the Lesson**  
+Open `lesson.py` or `lesson.ipynb` and read it top to bottom.  
+Run the code and observe every output.  
 Make sure you understand every line before moving on.
 
 **Step 2 — Take the Quiz**
-Run the interactive quiz:
+
 ```bash
 python quiz.py
 ```
-Answer all 5 questions.
-🎯 Goal: Score 5/5 before moving to exercises.
+
+🎯 Goal: Score 5/5 before moving to exercises.  
 If you score less than 5/5, go back to `lesson.py`, review, then retake.
 
-**Step 3 — Solve the Exercises**
-Open `exercises.py` and solve each challenge yourself.
+**Step 3 — Solve the Exercises**  
+Open `exercises.py` and solve each challenge yourself.  
 Do NOT open `solutions.py` until you have tried your best.
-Each exercise is a small program — write real working code.
 
-**Step 4 — Check Your Solutions**
-Open `solutions.py` to compare your approach.
+**Step 4 — Check Your Solutions**  
+Open `solutions.py` to compare your approach.  
 Understanding WHY the solution works matters more than getting it right.
 
 > 💡 Struggle is where real learning happens. Don't skip to solutions too fast.
+
+---
 
 ## 🛠️ Setup Guide for Absolute Beginners
 
@@ -105,32 +120,26 @@ Understanding WHY the solution works matters more than getting it right.
 
 - Go to [https://www.python.org/downloads/](https://www.python.org/downloads/)
 - Download **Python 3.11 or higher**
-- During installation, **CHECK "Add Python to PATH"** (critical step — don't skip this)
-- Verify the installation: open a terminal and run:
+- During installation, **CHECK "Add Python to PATH"** (don't skip this!)
+- Verify:
 
 ```bash
 python --version
-# Expected output: Python 3.11.x (or higher)
+# Expected: Python 3.11.x or higher
 ```
 
-### Step 2 — Install VS Code (Recommended Editor)
+### Step 2 — Install VS Code
 
 - Go to [https://code.visualstudio.com/](https://code.visualstudio.com/)
-- Download and install for your operating system
-- Open VS Code → go to the **Extensions** tab (Ctrl+Shift+X)
-- Search for **"Python"** (by Microsoft) and click Install
+- Install the **Python** extension by Microsoft (Ctrl+Shift+X)
 
-### Step 3 — Install Jupyter Notebook Support
-
-Open your terminal and run:
+### Step 3 — Install Jupyter
 
 ```bash
 pip install jupyter notebook
 ```
 
-> This lets you open and run `.ipynb` files interactively inside VS Code.
-
-### Step 4 — Clone This Repository
+### Step 4 — Clone & Install
 
 ```bash
 git clone https://github.com/Mood07/Python-RoadMap.git
@@ -142,49 +151,53 @@ pip install -r requirements.txt
 
 1. Open `Week-01_Python_Basics/Day-01/lesson.py`
 2. Read the comments — every line is explained
-3. Try `exercises.py` yourself before looking at the solutions
-4. Open `lesson.ipynb` in VS Code for an interactive experience
+3. Try `exercises.py` before checking `solutions.py`
 
 ---
 
 ## 🗺️ Curriculum
 
-| Week | Topic | Level | Status |
-|------|-------|-------|--------|
-| 01 | Python Basics | 🟢 Beginner | 🔄 In Progress |
-| 02 | Control Flow | 🟢 Beginner | ⏳ Upcoming |
-| 03 | Functions | 🟢 Beginner | ⏳ Upcoming |
-| 04 | Data Structures | 🟢 Beginner | ⏳ Upcoming |
-| 05 | OOP | 🟡 Intermediate | ⏳ Upcoming |
-| 06 | File & Error Handling | 🟡 Intermediate | ⏳ Upcoming |
-| 07 | Modules & Packages | 🟡 Intermediate | ⏳ Upcoming |
-| 08 | Advanced Python | 🟡 Intermediate | ⏳ Upcoming |
-| 09 | NumPy | 🔵 Data Science | ⏳ Upcoming |
-| 10 | Pandas | 🔵 Data Science | ⏳ Upcoming |
-| 11 | Data Visualization | 🔵 Data Science | ⏳ Upcoming |
-| 12 | SQL + Python | 🔵 Data Science | ⏳ Upcoming |
-| 13 | API & Web Scraping | 🔴 Real World | ⏳ Upcoming |
-| 14 | Statistics & EDA | 🔴 Real World | ⏳ Upcoming |
-| 15 | Machine Learning Intro | 🔴 Advanced | ⏳ Upcoming |
-| 16 | Capstone Projects | 🔴 Advanced | ⏳ Upcoming |
+| Week | Topic                  | Level           | Days Done | Status         |
+| ---- | ---------------------- | --------------- | --------- | -------------- |
+| 01   | Python Basics          | 🟢 Beginner     | 5/7       | 🔄 In Progress |
+| 02   | Control Flow           | 🟢 Beginner     | 0/7       | ⏳ Upcoming    |
+| 03   | Functions              | 🟢 Beginner     | 0/7       | ⏳ Upcoming    |
+| 04   | Data Structures        | 🟢 Beginner     | 0/7       | ⏳ Upcoming    |
+| 05   | OOP                    | 🟡 Intermediate | 0/7       | ⏳ Upcoming    |
+| 06   | File & Error Handling  | 🟡 Intermediate | 0/7       | ⏳ Upcoming    |
+| 07   | Modules & Packages     | 🟡 Intermediate | 0/7       | ⏳ Upcoming    |
+| 08   | Advanced Python        | 🟡 Intermediate | 0/7       | ⏳ Upcoming    |
+| 09   | NumPy                  | 🔵 Data Science | 0/7       | ⏳ Upcoming    |
+| 10   | Pandas                 | 🔵 Data Science | 0/7       | ⏳ Upcoming    |
+| 11   | Data Visualization     | 🔵 Data Science | 0/7       | ⏳ Upcoming    |
+| 12   | SQL + Python           | 🔵 Data Science | 0/7       | ⏳ Upcoming    |
+| 13   | API & Web Scraping     | 🔴 Real World   | 0/7       | ⏳ Upcoming    |
+| 14   | Statistics & EDA       | 🔴 Real World   | 0/7       | ⏳ Upcoming    |
+| 15   | Machine Learning Intro | 🔴 Advanced     | 0/7       | ⏳ Upcoming    |
+| 16   | Capstone Projects      | 🔴 Advanced     | 0/7       | ⏳ Upcoming    |
 
 ---
 
 ## 📁 Folder Structure
 
 ```
-Week-XX_Topic/
+Python-RoadMap/
+├── requirements.txt
 ├── README.md
-├── Day-01/
-│   ├── lesson.py        → Concept explanations and working examples
-│   ├── lesson.ipynb     → Same as lesson.py in interactive notebook format
-│   ├── quiz.py          → Interactive quiz — run with: python quiz.py
-│   ├── exercises.py     → Problems only (no solutions)
-│   └── solutions.py     → Full solutions (check after attempting exercises)
-└── Day-07_Weekly_Review/
-    ├── weekly_quiz.py       → 10 MCQ + 5 code challenges
-    ├── weekly_quiz.ipynb
-    └── weekly_homework.py   → Mini project + full solution
+│
+└── Week-01_Python_Basics/
+    ├── README.md
+    ├── Day-01/
+    │   ├── lesson.py        → Concept explanations with working examples
+    │   ├── lesson.ipynb     → Interactive notebook version
+    │   ├── quiz.py          → 5-question interactive quiz
+    │   ├── exercises.py     → Challenges (no solutions)
+    │   └── solutions.py     → Full solutions with explanations
+    ├── Day-02/ ... Day-05/  → Same structure
+    └── Day-07_Weekly_Review/
+        ├── weekly_quiz.py       → 10 MCQ + 5 code challenges
+        ├── weekly_quiz.ipynb
+        └── weekly_homework.py   → Mini project + full solution
 ```
 
 ---
@@ -195,23 +208,33 @@ Week-XX_Topic/
 pip install -r requirements.txt
 ```
 
-| Library | Purpose |
-|---------|---------|
-| numpy | Numerical computing |
-| pandas | Data manipulation |
-| matplotlib | Data visualization |
-| seaborn | Statistical visualization |
-| scikit-learn | Machine learning |
-| requests | HTTP & APIs |
-| beautifulsoup4 | Web scraping |
-| sqlalchemy | Database ORM |
-| jupyter | Notebook environment |
+| Library        | Purpose                   |
+| -------------- | ------------------------- |
+| numpy          | Numerical computing       |
+| pandas         | Data manipulation         |
+| matplotlib     | Data visualization        |
+| seaborn        | Statistical visualization |
+| scikit-learn   | Machine learning          |
+| requests       | HTTP & APIs               |
+| beautifulsoup4 | Web scraping              |
+| sqlalchemy     | Database ORM              |
+| jupyter        | Notebook environment      |
+
+---
+
+## 🤝 Contributing
+
+This is primarily a personal learning repository, but contributions are welcome!
+
+- Found a bug or typo? Open an **Issue**
+- Want to improve an exercise? Submit a **Pull Request**
+- Find it helpful? Leave a ⭐ — it means a lot!
 
 ---
 
 ## 📄 License
 
-MIT License — free to use, share, and build upon with attribution.
+MIT License — free to use, share, and build upon with attribution.  
 See [LICENSE](LICENSE) for details.
 
 ---
