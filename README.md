@@ -12,7 +12,7 @@
   <p>
     <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Weeks-16-2ecc71?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Days%20Done-5%2F112-e67e22?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Days%20Done-6%2F112-e67e22?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
   </p>
 
@@ -46,7 +46,7 @@ reference and a free learning resource for anyone starting their Python journey.
 ## 📊 Overall Progress
 
 ```
-Week 01 — Python Basics      ████████░░  5/7 days  🔄 In Progress
+Week 01 — Python Basics      █████████░  6/7 days  🔄 In Progress
 Week 02 — Control Flow       ░░░░░░░░░░  0/7 days  ⏳ Upcoming
 Week 03 — Functions          ░░░░░░░░░░  0/7 days  ⏳ Upcoming
 ...
@@ -159,7 +159,7 @@ pip install -r requirements.txt
 
 | Week | Topic                  | Level           | Days Done | Status         |
 | ---- | ---------------------- | --------------- | --------- | -------------- |
-| 01   | Python Basics          | 🟢 Beginner     | 5/7       | 🔄 In Progress |
+| 01   | Python Basics          | 🟢 Beginner     | 6/7       | 🔄 In Progress |
 | 02   | Control Flow           | 🟢 Beginner     | 0/7       | ⏳ Upcoming    |
 | 03   | Functions              | 🟢 Beginner     | 0/7       | ⏳ Upcoming    |
 | 04   | Data Structures        | 🟢 Beginner     | 0/7       | ⏳ Upcoming    |
@@ -193,7 +193,7 @@ Python-RoadMap/
     │   ├── quiz.py          → 5-question interactive quiz
     │   ├── exercises.py     → Challenges (no solutions)
     │   └── solutions.py     → Full solutions with explanations
-    ├── Day-02/ ... Day-05/  → Same structure
+    ├── Day-02/ ... Day-06/  → Same structure
     └── Day-07_Weekly_Review/
         ├── weekly_quiz.py       → 10 MCQ + 5 code challenges
         ├── weekly_quiz.ipynb
