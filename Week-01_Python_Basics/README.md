@@ -29,7 +29,7 @@ By the end of this week you will be able to:
 | 04 | User Input & Type Conversion | input(), int(), float(), str(), bool(), isdigit(), ValueError |
 | 05 | Operators & Expressions | comparison, logical, bitwise, identity, membership, ternary, precedence |
 | 06 | Print & Formatting | sep, end, f-string format specs, format(), number formatting, print tricks |
-| 07 | Weekly Review | quiz (10 MCQ + 5 challenges) + homework project |
+| 07 | Weekly Review | weekly_quiz.py (10 MCQ + 5 code challenges) + Personal Finance Tracker project |
 
 ---
 
@@ -75,9 +75,9 @@ Week-01_Python_Basics/
 │   ├── exercises.py
 │   └── solutions.py
 └── Day-07_Weekly_Review/
-    ├── weekly_quiz.py           ← 10 MCQ + 5 code challenges
-    ├── weekly_quiz.ipynb
-    └── weekly_homework.py       ← Mini project
+    ├── weekly_quiz.py           ← 10 MCQ + 5 code challenges (python weekly_quiz.py)
+    ├── weekly_quiz.ipynb        ← Notebook with answers and explanations
+    └── weekly_homework.py       ← Mini project: Personal Finance Tracker
 ```
 
 ---
