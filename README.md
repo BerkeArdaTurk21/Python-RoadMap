@@ -12,7 +12,7 @@
   <p>
     <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Weeks-16-2ecc71?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Days%20Done-7%2F112-e67e22?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Days%20Done-8%2F112-e67e22?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
   </p>
 
@@ -47,7 +47,7 @@ reference and a free learning resource for anyone starting their Python journey.
 
 ```
 Week 01 — Python Basics      ██████████  7/7 days  ✅ Completed
-Week 02 — Control Flow       ░░░░░░░░░░  0/7 days  ⏳ Upcoming
+Week 02 — Control Flow       █░░░░░░░░░  1/7 days  🔄 In Progress
 Week 03 — Functions          ░░░░░░░░░░  0/7 days  ⏳ Upcoming
 ...
 ```
@@ -160,7 +160,7 @@ pip install -r requirements.txt
 | Week | Topic                  | Level           | Days Done | Status         |
 | ---- | ---------------------- | --------------- | --------- | -------------- |
 | 01   | Python Basics          | 🟢 Beginner     | 7/7       | ✅ Completed   |
-| 02   | Control Flow           | 🟢 Beginner     | 0/7       | ⏳ Upcoming    |
+| 02   | Control Flow           | 🟢 Beginner     | 1/7       | 🔄 In Progress |
 | 03   | Functions              | 🟢 Beginner     | 0/7       | ⏳ Upcoming    |
 | 04   | Data Structures        | 🟢 Beginner     | 0/7       | ⏳ Upcoming    |
 | 05   | OOP                    | 🟡 Intermediate | 0/7       | ⏳ Upcoming    |
@@ -185,19 +185,25 @@ Python-RoadMap/
 ├── requirements.txt
 ├── README.md
 │
-└── Week-01_Python_Basics/
+├── Week-01_Python_Basics/
+│   ├── README.md
+│   ├── Day-01/
+│   │   ├── lesson.py        → Concept explanations with working examples
+│   │   ├── lesson.ipynb     → Interactive notebook version
+│   │   ├── quiz.py          → 5-question interactive quiz
+│   │   ├── exercises.py     → Challenges (no solutions)
+│   │   └── solutions.py     → Full solutions with explanations
+│   ├── Day-02/ ... Day-06/  → Same structure
+│   └── Day-07_Weekly_Review/
+│       ├── weekly_quiz.py       → 10 MCQ + 5 code challenges
+│       ├── weekly_quiz.ipynb
+│       └── weekly_homework.py   → Mini project + full solution
+│
+└── Week-02_Control_Flow/
     ├── README.md
-    ├── Day-01/
-    │   ├── lesson.py        → Concept explanations with working examples
-    │   ├── lesson.ipynb     → Interactive notebook version
-    │   ├── quiz.py          → 5-question interactive quiz
-    │   ├── exercises.py     → Challenges (no solutions)
-    │   └── solutions.py     → Full solutions with explanations
+    ├── Day-01/              → if / elif / else
     ├── Day-02/ ... Day-06/  → Same structure
     └── Day-07_Weekly_Review/
-        ├── weekly_quiz.py       → 10 MCQ + 5 code challenges
-        ├── weekly_quiz.ipynb
-        └── weekly_homework.py   → Mini project + full solution
 ```
 
 ---
