@@ -39,7 +39,7 @@ By the end of this week you will be able to:
 |-----|-------|--------|
 | 01 | if / elif / else | ✅ Done |
 | 02 | for Loops | ✅ Done |
-| 03 | while Loops | ⏳ Upcoming |
+| 03 | while Loops | ✅ Done |
 | 04 | break / continue / pass | ⏳ Upcoming |
 | 05 | Nested Loops | ⏳ Upcoming |
 | 06 | match / case | ⏳ Upcoming |
