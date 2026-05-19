@@ -41,7 +41,7 @@ By the end of this week you will be able to:
 | 02 | for Loops | ✅ Done |
 | 03 | while Loops | ✅ Done |
 | 04 | break / continue / pass | ✅ Done |
-| 05 | Nested Loops | ⏳ Upcoming |
+| 05 | Nested Loops | ✅ Done |
 | 06 | match / case | ⏳ Upcoming |
 | 07 | Weekly Review | ⏳ Upcoming |
 
