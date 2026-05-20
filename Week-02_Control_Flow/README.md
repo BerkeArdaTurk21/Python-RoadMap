@@ -42,7 +42,7 @@ By the end of this week you will be able to:
 | 03 | while Loops | ✅ Done |
 | 04 | break / continue / pass | ✅ Done |
 | 05 | Nested Loops | ✅ Done |
-| 06 | match / case | ⏳ Upcoming |
+| 06 | match / case | ✅ Done |
 | 07 | Weekly Review | ⏳ Upcoming |
 
 ---
