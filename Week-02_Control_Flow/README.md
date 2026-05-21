@@ -43,7 +43,7 @@ By the end of this week you will be able to:
 | 04 | break / continue / pass | ✅ Done |
 | 05 | Nested Loops | ✅ Done |
 | 06 | match / case | ✅ Done |
-| 07 | Weekly Review | ⏳ Upcoming |
+| 07 | Weekly Review | ✅ Done |
 
 ---
 
