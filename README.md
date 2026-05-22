@@ -12,7 +12,7 @@
   <p>
     <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Weeks-16-2ecc71?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Days%20Done-14%2F112-e67e22?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Days%20Done-15%2F112-e67e22?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
   </p>
 
@@ -48,7 +48,7 @@ reference and a free learning resource for anyone starting their Python journey.
 ```
 Week 01 — Python Basics      ██████████  7/7 days  ✅ Completed
 Week 02 — Control Flow       ██████████  7/7 days  ✅ Completed
-Week 03 — Functions          ░░░░░░░░░░  0/7 days  ⏳ Upcoming
+Week 03 — Functions          █░░░░░░░░░  1/7 days  🔄 In Progress
 ...
 ```
 
@@ -161,7 +161,7 @@ pip install -r requirements.txt
 | ---- | ---------------------- | --------------- | --------- | -------------- |
 | 01   | Python Basics          | 🟢 Beginner     | 7/7       | ✅ Completed   |
 | 02   | Control Flow           | 🟢 Beginner     | 7/7       | ✅ Completed   |
-| 03   | Functions              | 🟢 Beginner     | 0/7       | ⏳ Upcoming    |
+| 03   | Functions              | 🟢 Beginner     | 1/7       | 🔄 In Progress |
 | 04   | Data Structures        | 🟢 Beginner     | 0/7       | ⏳ Upcoming    |
 | 05   | OOP                    | 🟡 Intermediate | 0/7       | ⏳ Upcoming    |
 | 06   | File & Error Handling  | 🟡 Intermediate | 0/7       | ⏳ Upcoming    |
@@ -199,9 +199,15 @@ Python-RoadMap/
 │       ├── weekly_quiz.ipynb
 │       └── weekly_homework.py   → Mini project + full solution
 │
-└── Week-02_Control_Flow/
+├── Week-02_Control_Flow/
+│   ├── README.md
+│   ├── Day-01/              → if / elif / else
+│   ├── Day-02/ ... Day-06/  → Same structure
+│   └── Day-07_Weekly_Review/
+│
+└── Week-03_Functions/
     ├── README.md
-    ├── Day-01/              → if / elif / else
+    ├── Day-01/              → Defining Functions
     ├── Day-02/ ... Day-06/  → Same structure
     └── Day-07_Weekly_Review/
 ```
@@ -246,6 +252,5 @@ See [LICENSE](LICENSE) for details.
 ---
 
 <div align="center">
-  <p>⭐ If this helped you, please star the repo!<br/>
-  Made with ❤️ by <a href="https://berkeardaturk.com/">Berke Arda Türk</a></p>
+  <p>⭐ If this helped you, please star the repo!</p>
 </div>
