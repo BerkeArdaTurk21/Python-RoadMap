@@ -12,7 +12,7 @@
   <p>
     <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Weeks-16-2ecc71?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Days%20Done-15%2F112-e67e22?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Days%20Done-16%2F112-e67e22?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
   </p>
 
@@ -48,7 +48,7 @@ reference and a free learning resource for anyone starting their Python journey.
 ```
 Week 01 — Python Basics      ██████████  7/7 days  ✅ Completed
 Week 02 — Control Flow       ██████████  7/7 days  ✅ Completed
-Week 03 — Functions          █░░░░░░░░░  1/7 days  🔄 In Progress
+Week 03 — Functions          ██░░░░░░░░  2/7 days  🔄 In Progress
 ...
 ```
 
@@ -161,7 +161,7 @@ pip install -r requirements.txt
 | ---- | ---------------------- | --------------- | --------- | -------------- |
 | 01   | Python Basics          | 🟢 Beginner     | 7/7       | ✅ Completed   |
 | 02   | Control Flow           | 🟢 Beginner     | 7/7       | ✅ Completed   |
-| 03   | Functions              | 🟢 Beginner     | 1/7       | 🔄 In Progress |
+| 03   | Functions              | 🟢 Beginner     | 2/7       | 🔄 In Progress |
 | 04   | Data Structures        | 🟢 Beginner     | 0/7       | ⏳ Upcoming    |
 | 05   | OOP                    | 🟡 Intermediate | 0/7       | ⏳ Upcoming    |
 | 06   | File & Error Handling  | 🟡 Intermediate | 0/7       | ⏳ Upcoming    |
