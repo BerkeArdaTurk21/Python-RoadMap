@@ -40,7 +40,7 @@ By the end of this week you will be able to:
 |-----|-------|--------|
 | 01 | Defining Functions | ✅ Done |
 | 02 | Default & Keyword Args | ✅ Done |
-| 03 | *args & **kwargs | ⏳ Upcoming |
+| 03 | *args & **kwargs | ✅ Done |
 | 04 | Lambda Functions | ⏳ Upcoming |
 | 05 | Scope & Closures | ⏳ Upcoming |
 | 06 | Recursion | ⏳ Upcoming |
