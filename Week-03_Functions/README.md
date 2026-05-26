@@ -42,7 +42,7 @@ By the end of this week you will be able to:
 | 02 | Default & Keyword Args | ✅ Done |
 | 03 | *args & **kwargs | ✅ Done |
 | 04 | Lambda Functions | ✅ Done |
-| 05 | Scope & Closures | ⏳ Upcoming |
+| 05 | Scope & Closures | ✅ Done |
 | 06 | Recursion | ⏳ Upcoming |
 | 07 | Weekly Review | ⏳ Upcoming |
 
