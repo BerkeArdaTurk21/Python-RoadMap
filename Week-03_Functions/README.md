@@ -43,7 +43,7 @@ By the end of this week you will be able to:
 | 03 | *args & **kwargs | ✅ Done |
 | 04 | Lambda Functions | ✅ Done |
 | 05 | Scope & Closures | ✅ Done |
-| 06 | Recursion | ⏳ Upcoming |
+| 06 | Recursion | ✅ Done |
 | 07 | Weekly Review | ⏳ Upcoming |
 
 ---
