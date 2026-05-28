@@ -12,7 +12,7 @@
   <p>
     <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Weeks-12-2ecc71?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Days%20Done-20%2F84-e67e22?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Days%20Done-21%2F84-e67e22?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
   </p>
 
@@ -49,7 +49,7 @@ It serves as both a personal revision reference and a free learning resource for
 ```
 Week 01 — Python Basics             ██████████  7/7 days  ✅ Completed
 Week 02 — Control Flow              ██████████  7/7 days  ✅ Completed
-Week 03 — Functions                 █████████░  6/7 days  🔄 In Progress
+Week 03 — Functions                 ██████████  7/7 days  ✅ Completed
 Week 04 — Data Structures           ░░░░░░░░░░  0/7 days  ⏳ Upcoming
 Week 05 — OOP                       ░░░░░░░░░░  0/7 days  ⏳ Upcoming
 Week 06 — File & Error Handling     ░░░░░░░░░░  0/7 days  ⏳ Upcoming
@@ -179,7 +179,7 @@ Understanding **WHY** the solution works matters more than getting it right.
 | ---- | ---------------------------- | --------------- | --------- | -------------- |
 | 01   | Python Basics                | 🟢 Beginner     | 7/7       | ✅ Completed   |
 | 02   | Control Flow                 | 🟢 Beginner     | 7/7       | ✅ Completed   |
-| 03   | Functions                    | 🟢 Beginner     | 6/7       | 🔄 In Progress |
+| 03   | Functions                    | 🟢 Beginner     | 7/7       | ✅ Completed   |
 | 04   | Data Structures              | 🟢 Beginner     | 0/7       | ⏳ Upcoming    |
 | 05   | OOP                          | 🟡 Intermediate | 0/7       | ⏳ Upcoming    |
 | 06   | File & Error Handling        | 🟡 Intermediate | 0/7       | ⏳ Upcoming    |
