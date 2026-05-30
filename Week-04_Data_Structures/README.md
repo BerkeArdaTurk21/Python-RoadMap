@@ -37,7 +37,7 @@ By the end of this week you will be able to:
 | Day | Topic | Status |
 |-----|-------|--------|
 | 01 | Lists | ✅ Done |
-| 02 | Tuples | ⏳ Upcoming |
+| 02 | Tuples | ✅ Done |
 | 03 | Dictionaries | ⏳ Upcoming |
 | 04 | Sets | ⏳ Upcoming |
 | 05 | Comprehensions | ⏳ Upcoming |
