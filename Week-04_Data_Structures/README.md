@@ -38,7 +38,7 @@ By the end of this week you will be able to:
 |-----|-------|--------|
 | 01 | Lists | ✅ Done |
 | 02 | Tuples | ✅ Done |
-| 03 | Dictionaries | ⏳ Upcoming |
+| 03 | Dictionaries | ✅ Done |
 | 04 | Sets | ⏳ Upcoming |
 | 05 | Comprehensions | ⏳ Upcoming |
 | 06 | collections Module | ⏳ Upcoming |
