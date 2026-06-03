@@ -41,7 +41,7 @@ By the end of this week you will be able to:
 | 03 | Dictionaries | ✅ Done |
 | 04 | Sets | ✅ Done |
 | 05 | Comprehensions | ✅ Done |
-| 06 | collections Module | ⏳ Upcoming |
+| 06 | collections Module | ✅ Done |
 | 07 | Weekly Review | ⏳ Upcoming |
 
 ---
