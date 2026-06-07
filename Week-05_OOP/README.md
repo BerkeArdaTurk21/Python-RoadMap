@@ -38,7 +38,7 @@ By the end of this week you will be able to:
 |-----|-------|--------|
 | 01 | Classes & Objects | ✅ Done |
 | 02 | Instance & Class Variables | ✅ Done |
-| 03 | Inheritance | ⏳ Upcoming |
+| 03 | Inheritance | ✅ Done |
 | 04 | Encapsulation | ⏳ Upcoming |
 | 05 | Polymorphism | ⏳ Upcoming |
 | 06 | Magic Methods | ⏳ Upcoming |
