@@ -17,8 +17,8 @@
   </p>
 
   <p>
-    <a href="https://github.com/Mood07">
-      <img src="https://img.shields.io/badge/GitHub-Mood07-181717?style=for-the-badge&logo=github"/>
+    <a href="https://github.com/BerkeArdaTurk21">
+      <img src="https://img.shields.io/badge/GitHub-BerkeArdaTurk21-181717?style=for-the-badge&logo=github"/>
     </a>
     <a href="https://www.linkedin.com/in/berke-arda-turk/">
       <img src="https://img.shields.io/badge/LinkedIn-Berke%20Arda%20Türk-0A66C2?style=for-the-badge&logo=linkedin"/>
@@ -113,7 +113,7 @@ git --version
 ### Step 4 — Clone the Repo & Install Dependencies
 
 ```bash
-git clone https://github.com/Mood07/Python-RoadMap.git
+git clone https://github.com/BerkeArdaTurk21/Python-RoadMap.git
 cd Python-RoadMap
 pip install -r requirements.txt
 ```
@@ -280,5 +280,5 @@ See [LICENSE](LICENSE) for details.
 
 <div align="center">
   <p>⭐ If this helped you, please star the repo!</p>
-  <sub>Built with pyton and consistency by  <a href="https://github.com/Mood07">Berke Arda Türk</a></sub>
+  <sub>Built with pyton and consistency by  <a href="https://github.com/BerkeArdaTurk21">Berke Arda Türk</a></sub>
 </div>
