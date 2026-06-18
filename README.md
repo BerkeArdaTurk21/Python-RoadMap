@@ -12,7 +12,7 @@
   <p>
     <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Weeks-12-2ecc71?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Days%20Done-31%2F84-e67e22?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Days%20Done-42%2F84-e67e22?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
   </p>
 
@@ -51,8 +51,8 @@ Week 01 — Python Basics             ██████████  7/7 days  
 Week 02 — Control Flow              ██████████  7/7 days  ✅ Completed
 Week 03 — Functions                 ██████████  7/7 days  ✅ Completed
 Week 04 — Data Structures           ██████████  7/7 days  ✅ Completed
-Week 05 — OOP                       ███░░░░░░░  3/7 days  🔄 In Progress
-Week 06 — File & Error Handling     ░░░░░░░░░░  0/7 days  ⏳ Upcoming
+Week 05 — OOP                       ██████████  7/7 days  ✅ Completed
+Week 06 — File & Error Handling     ██████████  7/7 days  ✅ Completed
 Week 07 — Modules & Packages        ░░░░░░░░░░  0/7 days  ⏳ Upcoming
 Week 08 — Advanced Python           ░░░░░░░░░░  0/7 days  ⏳ Upcoming
 Week 09 — Project: Task Manager     ░░░░░░░░░░  0/7 days  ⏳ Upcoming
@@ -181,8 +181,8 @@ Understanding **WHY** the solution works matters more than getting it right.
 | 02   | Control Flow                 | 🟢 Beginner     | 7/7       | ✅ Completed   |
 | 03   | Functions                    | 🟢 Beginner     | 7/7       | ✅ Completed   |
 | 04   | Data Structures              | 🟢 Beginner     | 7/7       | ✅ Completed   |
-| 05   | OOP                          | 🟡 Intermediate | 3/7       | 🔄 In Progress |
-| 06   | File & Error Handling        | 🟡 Intermediate | 0/7       | ⏳ Upcoming    |
+| 05   | OOP                          | 🟡 Intermediate | 7/7       | ✅ Completed   |
+| 06   | File & Error Handling        | 🟡 Intermediate | 7/7       | ✅ Completed   |
 | 07   | Modules & Packages           | 🟡 Intermediate | 0/7       | ⏳ Upcoming    |
 | 08   | Advanced Python              | 🟡 Intermediate | 0/7       | ⏳ Upcoming    |
 | 09   | Project 1 — Task Manager CLI | 🟠 Project      | 0/7       | ⏳ Upcoming    |
