@@ -39,11 +39,11 @@ By the end of this week you will be able to:
 | Day | Topic | Status |
 |-----|-------|--------|
 | 01 | Import System & venv | ✅ Done |
-| 02 | os Module | ⏳ Upcoming |
-| 03 | sys & argparse | ⏳ Upcoming |
-| 04 | datetime Module | ⏳ Upcoming |
-| 05 | random Module | ⏳ Upcoming |
-| 06 | Regular Expressions | ⏳ Upcoming |
+| 02 | os Module | ✅ Done |
+| 03 | sys & argparse | ✅ Done |
+| 04 | datetime Module | ✅ Done |
+| 05 | random Module | ✅ Done |
+| 06 | Regular Expressions | ✅ Done |
 | 07 | Weekly Review | ⏳ Upcoming |
 
 ---
