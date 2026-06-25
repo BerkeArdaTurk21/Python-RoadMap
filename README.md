@@ -53,7 +53,7 @@ Week 03 — Functions                 ██████████  7/7 days  
 Week 04 — Data Structures           ██████████  7/7 days  ✅ Completed
 Week 05 — OOP                       ██████████  7/7 days  ✅ Completed
 Week 06 — File & Error Handling     ██████████  7/7 days  ✅ Completed
-Week 07 — Modules & Packages        █████████░  6/7 days  🔄 In Progress
+Week 07 — Modules & Packages        ██████████  7/7 days  ✅ Completed
 Week 08 — Advanced Python           ░░░░░░░░░░  0/7 days  ⏳ Upcoming
 Week 09 — Project: Task Manager     ░░░░░░░░░░  0/7 days  ⏳ Upcoming
 Week 10 — Project: Password Manager ░░░░░░░░░░  0/7 days  ⏳ Upcoming
@@ -183,7 +183,7 @@ Understanding **WHY** the solution works matters more than getting it right.
 | 04   | Data Structures              | 🟢 Beginner     | 7/7       | ✅ Completed   |
 | 05   | OOP                          | 🟡 Intermediate | 7/7       | ✅ Completed   |
 | 06   | File & Error Handling        | 🟡 Intermediate | 7/7       | ✅ Completed   |
-| 07   | Modules & Packages           | 🟡 Intermediate | 6/7       | 🔄 In Progress |
+| 07   | Modules & Packages           | 🟡 Intermediate | 7/7       | ✅ Completed   |
 | 08   | Advanced Python              | 🟡 Intermediate | 0/7       | ⏳ Upcoming    |
 | 09   | Project 1 — Task Manager CLI | 🟠 Project      | 0/7       | ⏳ Upcoming    |
 | 10   | Project 2 — Password Manager | 🟠 Project      | 0/7       | ⏳ Upcoming    |
