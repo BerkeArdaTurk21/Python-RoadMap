@@ -37,7 +37,7 @@ By the end of this week you will be able to:
 | Day | Topic | Status |
 |-----|-------|--------|
 | 01 | Decorators | ✅ Done |
-| 02 | Iterators | ⏳ Upcoming |
+| 02 | Iterators | ✅ Done |
 | 03 | Generators | ⏳ Upcoming |
 | 04 | Context Managers | ⏳ Upcoming |
 | 05 | Type Hints | ⏳ Upcoming |
