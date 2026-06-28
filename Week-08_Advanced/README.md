@@ -38,7 +38,7 @@ By the end of this week you will be able to:
 |-----|-------|--------|
 | 01 | Decorators | ✅ Done |
 | 02 | Iterators | ✅ Done |
-| 03 | Generators | ⏳ Upcoming |
+| 03 | Generators | ✅ Done |
 | 04 | Context Managers | ⏳ Upcoming |
 | 05 | Type Hints | ⏳ Upcoming |
 | 06 | Testing with pytest | ⏳ Upcoming |
