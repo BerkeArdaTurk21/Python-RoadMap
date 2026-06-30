@@ -40,7 +40,7 @@ By the end of this week you will be able to:
 | 02 | Iterators | ✅ Done |
 | 03 | Generators | ✅ Done |
 | 04 | Context Managers | ✅ Done |
-| 05 | Type Hints | ⏳ Upcoming |
+| 05 | Type Hints | ✅ Done |
 | 06 | Testing with pytest | ⏳ Upcoming |
 | 07 | Weekly Review | ⏳ Upcoming |
 
