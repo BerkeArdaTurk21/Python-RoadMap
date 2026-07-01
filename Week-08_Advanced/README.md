@@ -41,7 +41,7 @@ By the end of this week you will be able to:
 | 03 | Generators | ✅ Done |
 | 04 | Context Managers | ✅ Done |
 | 05 | Type Hints | ✅ Done |
-| 06 | Testing with pytest | ⏳ Upcoming |
+| 06 | Testing with pytest | ✅ Done |
 | 07 | Weekly Review | ⏳ Upcoming |
 
 ---
