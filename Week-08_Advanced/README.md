@@ -42,7 +42,7 @@ By the end of this week you will be able to:
 | 04 | Context Managers | ✅ Done |
 | 05 | Type Hints | ✅ Done |
 | 06 | Testing with pytest | ✅ Done |
-| 07 | Weekly Review | ⏳ Upcoming |
+| 07 | Weekly Review | ✅ Done |
 
 ---
 
