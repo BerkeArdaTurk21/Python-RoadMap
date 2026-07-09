@@ -6,7 +6,7 @@
 
   <p>
     A complete beginner-to-intermediate Python learning roadmap.<br/>
-    Daily commits · Exercises · Quizzes · Projects · Notebooks
+    Daily lessons · Weekly projects · Exercises · Quizzes · Notebooks
   </p>
 
   <p>
@@ -33,14 +33,14 @@
 
 ## 👋 About This Repository
 
-A structured, beginner-friendly Python learning roadmap built with daily commits over **12 weeks**:
-**8 weeks of Python fundamentals + 4 weeks of portfolio-quality projects.**
+A structured, beginner-friendly Python learning roadmap built with consistent commits over **12 weeks**:
+**8 weeks of Python fundamentals (daily commits) + 4 weeks of portfolio-quality projects (weekly commits).**
 
 It serves as both a personal revision reference and a free learning resource for anyone starting their Python journey.
 
 **Created by:** Berke Arda Türk — CS Student | AI & Data Science @ Vizja University
 **Goal:** Solid, job-ready Python fundamentals — followed by 4 hands-on projects
-**Commitment:** 7 commits per day · 5 lesson files + 2 README updates · 12 weeks · 84 days total
+**Commitment:** Weeks 1–8 — 7 commits/day (5 lesson files + 2 README updates) · Weeks 9–12 — one portfolio project committed per week · 12 weeks total
 
 ---
 
@@ -280,5 +280,5 @@ See [LICENSE](LICENSE) for details.
 
 <div align="center">
   <p>⭐ If this helped you, please star the repo!</p>
-  <sub>Built with pyton and consistency by  <a href="https://github.com/BerkeArdaTurk21">Berke Arda Türk</a></sub>
+  <sub>Built with python and consistency by  <a href="https://github.com/BerkeArdaTurk21">Berke Arda Türk</a></sub>
 </div>
