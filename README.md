@@ -56,9 +56,6 @@ Week 06 — File & Error Handling     ██████████  7/7 days  
 Week 07 — Modules & Packages        ██████████  7/7 days  ✅ Completed
 Week 08 — Advanced Python           ██████████  7/7 days  ✅ Completed
 Week 09 — Project: Task Manager     ██████████  7/7 days  ✅ Completed
-Week 10 — Project: Password Manager ░░░░░░░░░░  0/7 days  ⏳ Upcoming
-Week 11 — Project: File Organizer   ░░░░░░░░░░  0/7 days  ⏳ Upcoming
-Week 12 — Capstone: Finance Tracker ░░░░░░░░░░  0/7 days  ⏳ Upcoming
 ```
 
 > Updated weekly as progress is made. ⭐ Star the repo to follow along!
@@ -186,9 +183,6 @@ Understanding **WHY** the solution works matters more than getting it right.
 | 07   | Modules & Packages           | 🟡 Intermediate | 7/7       | ✅ Completed   |
 | 08   | Advanced Python              | 🟡 Intermediate | 7/7       | ✅ Completed   |
 | 09   | Project 1 — Task Manager CLI | 🟠 Project      | 7/7       | ✅ Completed   |
-| 10   | Project 2 — Password Manager | 🟠 Project      | 0/7       | ⏳ Upcoming    |
-| 11   | Project 3 — File Organizer   | 🟠 Project      | 0/7       | ⏳ Upcoming    |
-| 12   | Capstone — Finance Tracker   | 🟠 Project      | 0/7       | ⏳ Upcoming    |
 
 ---
 
@@ -237,10 +231,7 @@ Python-RoadMap/
 ├── Week-07_Modules/          → imports & venv, os, sys & argparse, datetime, random, regex
 ├── Week-08_Advanced/         → decorators, iterators, generators, context managers, type hints, pytest
 │
-├── Week-09_Project_TaskMan/      → Project 1: Task Manager CLI (taskman)
-├── Week-10_Project_PyVault/      → Project 2: Password Manager (pyvault)
-├── Week-11_Project_Organizer/    → Project 3: File Organizer (organizer)
-└── Week-12_Capstone_Finly/       → Capstone: Personal Finance Tracker (finly)
+└── Week-09_Project_TaskMan/      → Project 1: Task Manager CLI (taskman)
 ```
 
 ---
