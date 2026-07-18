@@ -26,7 +26,7 @@ import pytest
 # - Catch bugs BEFORE users do — a failing test points at the exact problem
 # - Refactor safely: if the tests still pass, the behavior didn't change
 # - Tests are executable documentation: they show how the code is meant to be used
-# - Every project week in this roadmap (Weeks 9-12) ships with a pytest suite
+# - The project week in this roadmap (Week 9) ships with a pytest suite
 
 # The code under test — a tiny shopping cart module:
 

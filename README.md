@@ -11,8 +11,8 @@
 
   <p>
     <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Weeks-12-2ecc71?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Days%20Done-63%2F84-e67e22?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Weeks-9-2ecc71?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Days%20Done-63%2F63-e67e22?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
   </p>
 
@@ -33,14 +33,14 @@
 
 ## 👋 About This Repository
 
-A structured, beginner-friendly Python learning roadmap built with consistent commits over **12 weeks**:
-**8 weeks of Python fundamentals (daily commits) + 4 weeks of portfolio-quality projects (weekly commits).**
+A structured, beginner-friendly Python learning roadmap built with consistent commits over **9 weeks**:
+**8 weeks of Python fundamentals (daily commits) + 1 week portfolio-quality project (weekly commit).**
 
 It serves as both a personal revision reference and a free learning resource for anyone starting their Python journey.
 
 **Created by:** Berke Arda Türk — CS Student | AI & Data Science @ Vizja University
-**Goal:** Solid, job-ready Python fundamentals — followed by 4 hands-on projects
-**Commitment:** Weeks 1–8 — 7 commits/day (5 lesson files + 2 README updates) · Weeks 9–12 — one portfolio project committed per week · 12 weeks total
+**Goal:** Solid, job-ready Python fundamentals — followed by a hands-on project
+**Commitment:** Weeks 1–8 — 7 commits/day (5 lesson files + 2 README updates) · Week 9 — portfolio project committed weekly · 9 weeks total
 
 ---
 
@@ -186,19 +186,14 @@ Understanding **WHY** the solution works matters more than getting it right.
 
 ---
 
-## 🚧 Final Projects
+## 🚧 Final Project
 
-The last 4 weeks are dedicated to building **portfolio-quality, stdlib-only Python projects**.
+Week 9 is dedicated to building a **portfolio-quality, stdlib-only Python project**.
 No external frameworks, no domain expertise required — just pure Python.
 
-| #      | Project                | Command     | Highlights                                                                              |
-| ------ | ---------------------- | ----------- | --------------------------------------------------------------------------------------- |
-| **P1** | **Task Manager CLI**   | `taskman`   | argparse subcommands, JSON persistence, due dates, priorities, color output, pytest     |
-| **P2** | **Password Manager**   | `pyvault`   | Master-password hashing (PBKDF2), encrypted vault, clipboard support, custom exceptions |
-| **P3** | **File Organizer**     | `organizer` | pathlib walker, regex rules, dry-run + undo log, decorator-based logging                |
-| **P4** | **Finance Tracker** 🏆 | `finly`     | Multi-account, budgets, reports, CSV import/export, ASCII charts — combines everything  |
-
-> 🏆 **Capstone** project: Finance Tracker brings together OOP, modules, file I/O, type hints, regex and testing.
+| #      | Project              | Command   | Highlights                                                                           |
+| ------ | -------------------- | --------- | ------------------------------------------------------------------------------------- |
+| **P1** | **Task Manager CLI** | `taskman` | argparse subcommands, JSON persistence, due dates, priorities, color output, pytest   |
 
 ---
 
@@ -247,7 +242,7 @@ pip install -r requirements.txt
 | jupyter | Interactive notebooks for lessons         |
 | pytest  | Testing (introduced in Week 08, projects) |
 
-> 🪶 **Lightweight by design** — all 4 final projects use only the Python **standard library**.
+> 🪶 **Lightweight by design** — the final project uses only the Python **standard library**.
 > No NumPy, no Pandas, no Flask. Pure Python, end-to-end.
 
 ---

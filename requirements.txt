@@ -1,4 +1,4 @@
-# All Week 09-12 projects use only the Python standard library.
+# The Week 09 project uses only the Python standard library.
 # The packages below are only for the learning environment / testing.
 
 # ── Jupyter Environment ───────────────────────

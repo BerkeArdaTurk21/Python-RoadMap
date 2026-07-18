@@ -6,7 +6,7 @@
 # tests, simulations, games, sampling, and shuffling.
 #
 # WARNING: random is NOT cryptographically secure. For passwords/tokens use the
-# `secrets` module instead (covered in the Week 10 project).
+# `secrets` module instead.
 
 import random
 
